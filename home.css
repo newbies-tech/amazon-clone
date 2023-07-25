@@ -24,7 +24,7 @@
 .logo {
     display: flex;
 
-    background-image: url("img2/amazon_logo.png");
+    background-image: url("amazon_logo.png");
     background-size: cover;
     height: 80%;
     width: 100%;
@@ -177,7 +177,7 @@ navbar2**/
 .header-image {
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("img2/hero_image.jpg");
+    background-image: url("hero_image.jpg");
     width: 100%;
     height: 450px;
 }
@@ -196,17 +196,17 @@ navbar2**/
     height: 308px;
 }
 .electronic-img{
-background-image: url("img2/Electronics.jpg");
+background-image: url("Electronics.jpg");
 
 }
 .colthing-img{
-    background-image: url("img2/clothing.jpg");
+    background-image: url("clothing.jpg");
 }
 .health-img{
-    background-image: url("img2/health.jpg");
+    background-image: url("health.jpg");
 }
 .furniture-img{
-    background-image: url("img2/furniture.jpg");
+    background-image: url("furniture.jpg");
 }
 .tag{
     font-size: 0.85rem;
@@ -282,7 +282,7 @@ h2{
 }
 
 .logo{
-    background-image: url("img2/amazon_logo.png");
+    background-image: url("amazon_logo.png");
     width: 100px;
     height: 50px;
     margin: 15px;
